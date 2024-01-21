@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+Hi, I'm Rajarshi Kundu
+A passionate backend developer and a student from India.
+🌱 I’m currently learning To be Extroverted
+
+👯 I’m looking to collaborate on Spring Framework
+
+🤝 I’m looking for help with Backend Design
+
+👨‍💻 All of my projects are available @Elanza-48
+
+💬 Ask me about System Designs and Philosophy 😆
+
+⚡ Fun fact Coding is a passion and not profession.
+
