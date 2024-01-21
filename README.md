@@ -3,24 +3,10 @@
 <!--
 **biltox/biltox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-Hi, I'm Rajarshi Kundu
-A passionate backend developer and a student from India.
+Hi, I'm Nicolás Vercellone
+A passionate backend developer and a student from Argentina.
 🌱 I’m currently learning To be Extroverted
 
 👯 I’m looking to collaborate on Spring Framework
