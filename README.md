@@ -17,13 +17,13 @@ I'm Nicolás, a Full Stack Developer and I live in Argentina.
 
 📚  I hold a degree in Programming Technology.
 
-👨‍💻 Currently, I'm dedicated to backend development as a freelancer en diferentes proyectos.
+👨‍💻 Currently, I work on backend development as a freelancer in different projects.
 
-👯 I’m looking to collaborate on Spring Framework
+🌐 I'm currently open to new job opportunities.
 
 🌟 Lenguajes principales: Java, JavaScript, C.
 
-🎵 Me encanta el metal, el lofi, el jazz y la música suave
+🎵 I love rock, lofi, jazz and soft music.
 
 ⚡ Fun fact Coding is a passion and not profession.
 ```
