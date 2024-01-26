@@ -13,15 +13,15 @@
 <hr>
 
 ```
-I'm Nicolás, a Full Stack Developer and I live in Argentina.
+I'm Nicolás, a Full Stack Developer from Argentina.
 
-📚  I hold a degree in Programming Technology.
+📚   I'm a certified Technician in programming.
 
 👨‍💻 Currently, I work on backend development as a freelancer in different projects.
 
-🌐 I'm currently open to new job opportunities.
+🌐 I'm searching for new opportinities that would help me enrich my career and i always enjoy a challenge
 
-🌟 Lenguajes principales: Java, JavaScript, C.
+🌟 Main Lenguages: Java, JavaScript, C.
 
 🎵 I love rock, lofi, jazz and soft music.
 
