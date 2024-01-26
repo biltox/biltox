@@ -52,7 +52,7 @@ I'm Nicolás, a Full Stack Developer and I live in Argentina.
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,nodejs,spring" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,express,nodejs,spring,nestjs" />
   </a>
 </p>
 
